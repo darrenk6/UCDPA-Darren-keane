@@ -1,2 +1,4 @@
 This is a text file
 adding changes
+Please note that the final submission is all that needs to be marked.
+Alot of rough work logged through commits and code deleted etc.
