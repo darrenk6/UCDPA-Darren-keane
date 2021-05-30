@@ -1,6 +1,5 @@
-This is a text file
-adding changes
-Please note that the final submission is all that needs to be marked.
+
+Please note that the final commit is all that needs to be marked as final project
 Alot of rough work logged through commits and code deleted etc.
 1. age - age in years
 
